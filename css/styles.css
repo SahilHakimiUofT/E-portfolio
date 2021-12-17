@@ -85,11 +85,12 @@ hr{
 }
 
 .sun {
-  height: 30%;
+  
+  height: 50%;
   width: 30%;
   position: absolute;
   left: -5%;
-  top: 0;
+  top: -5%;
 }
 
 .sahilImage {
